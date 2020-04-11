@@ -10,6 +10,7 @@ This program was written in C#.
 
 - Need rebuild when using Visual Studio 2020
 - Make sure speech recognition is working in windows 10
+- You might get an error if you have the wrong language pack installed
 
 by: Abner Jr Funelas 2018
                      2019
