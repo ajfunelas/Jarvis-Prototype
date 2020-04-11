@@ -8,8 +8,8 @@ I just wanted to create a personal butler to help me automate stuff.
 
 This program was written in C#.
 
-Need rebuild when using Visual Studio 2020
-
+- Need rebuild when using Visual Studio 2020
+- Make sure speech recognition is working in windows 10
 
 by: Abner Jr Funelas 2018
                      2019
